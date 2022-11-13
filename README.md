@@ -7,4 +7,5 @@ inside, such that the admin dashboard is visible, redirect back to the localhost
 
 
 Heres a preview of the Home page:
+
 ![Alt text](https://cdn.discordapp.com/attachments/854391591941439489/1041244657432154162/Screenshot_20221113122056.png "socio home")
